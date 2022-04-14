@@ -1,0 +1,11 @@
+{
+	"annotation": {
+		"data_filename": "2.txt",
+		"data_type": "text",
+		"data_annotation": {
+			"classification": {
+				"classification_label": ".net"
+			}
+		}
+	}
+}

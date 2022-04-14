@@ -1,0 +1,25 @@
+{
+    "annotation": {
+        "data_filename": "img_0096.jpg",
+        "data_type": "image",
+        "data_annotation": {
+            "bounding_polygon": [],
+            "bounding_box": [
+                {
+                    "classification_label": "blueberry",
+                    "point_2D": [
+                        "384,136",
+                        "450,257"
+                    ]
+                },
+                {
+                    "classification_label": "apple",
+                    "point_2D": [
+                        "487,117",
+                        "557,256"
+                    ]
+                }
+            ]
+        }
+    }
+}

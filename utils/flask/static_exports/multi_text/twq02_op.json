@@ -1,0 +1,9 @@
+{
+    "annotation": {
+        "data_filename": "twq02.txt",
+        "data_type": "text",
+        "data_annotation": {
+            "classification_label": "l3"
+        }
+    }
+}

@@ -1,0 +1,11 @@
+{
+	"annotation": {
+		"data_filename": "1.txt",
+		"data_type": "text",
+		"data_annotation": {
+			"classification": {
+				"classification_label": "asp.net"
+			}
+		}
+	}
+}

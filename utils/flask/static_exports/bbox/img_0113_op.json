@@ -1,0 +1,25 @@
+{
+    "annotation": {
+        "data_filename": "img_0113.jpg",
+        "data_type": "image",
+        "data_annotation": {
+            "bounding_polygon": [],
+            "bounding_box": [
+                {
+                    "classification_label": "cat",
+                    "point_2D": [
+                        "371,170",
+                        "467,287"
+                    ]
+                },
+                {
+                    "classification_label": "elephant",
+                    "point_2D": [
+                        "531,181",
+                        "622,332"
+                    ]
+                }
+            ]
+        }
+    }
+}

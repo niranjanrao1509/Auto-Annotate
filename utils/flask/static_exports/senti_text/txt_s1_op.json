@@ -1,0 +1,11 @@
+{
+	"annotation": {
+		"data_filename": "test.txt",
+		"data_type": "text",
+		"data_annotation": {
+			"sentiment": {
+				"classification_label": "positive"
+			}
+		}
+	}
+}

@@ -1,0 +1,9 @@
+{
+    "annotation": {
+        "data_filename": "img_0014.jpg",
+        "data_type": "image",
+        "data_annotation": {
+            "classification_label": "strawberry"
+        }
+    }
+}

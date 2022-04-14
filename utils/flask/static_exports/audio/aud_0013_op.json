@@ -1,0 +1,9 @@
+{
+    "annotation": {
+        "data_filename": "aud2.jpg",
+        "data_type": "audio",
+        "data_annotation": {
+            "classification_label": "children-playing"
+        }
+    }
+}

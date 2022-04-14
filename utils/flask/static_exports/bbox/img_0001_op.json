@@ -1,0 +1,32 @@
+{
+    "annotation": {
+        "data_filename": "img_0001.jpg",
+        "data_type": "image",
+        "data_annotation": {
+            "bounding_polygon": [],
+            "bounding_box": [
+                {
+                    "classification_label": "l2",
+                    "point_2D": [
+                        "381,179",
+                        "456,331"
+                    ]
+                },
+                {
+                    "classification_label": "l12",
+                    "point_2D": [
+                        "492,191",
+                        "602,354"
+                    ]
+                },
+                {
+                    "classification_label": "l3",
+                    "point_2D": [
+                        "614,122",
+                        "739,325"
+                    ]
+                }
+            ]
+        }
+    }
+}

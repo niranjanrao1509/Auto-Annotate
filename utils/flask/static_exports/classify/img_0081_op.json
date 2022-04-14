@@ -1,0 +1,9 @@
+{
+    "annotation": {
+        "data_filename": "img_0081.jpg",
+        "data_type": "image",
+        "data_annotation": {
+            "classification_label": ["orange", "jackfruit"]
+        }
+    }
+}

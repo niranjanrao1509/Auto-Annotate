@@ -1,0 +1,25 @@
+{
+    "annotation": {
+        "data_filename": "img_0112.jpg",
+        "data_type": "image",
+        "data_annotation": {
+            "bounding_polygon": [],
+            "bounding_box": [
+                {
+                    "classification_label": ["orange", "apple"],
+                    "point_2D": [
+                        "357,124",
+                        "471,268"
+                    ]
+                },
+                {
+                    "classification_label": "strawberry",
+                    "point_2D": [
+                        "560,176",
+                        "610,297"
+                    ]
+                }
+            ]
+        }
+    }
+}

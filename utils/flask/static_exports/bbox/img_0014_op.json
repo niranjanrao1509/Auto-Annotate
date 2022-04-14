@@ -1,0 +1,25 @@
+{
+    "annotation": {
+        "data_filename": "img_0014.jpg",
+        "data_type": "image",
+        "data_annotation": {
+            "bounding_polygon": [],
+            "bounding_box": [
+                {
+                    "classification_label": "truck",
+                    "point_2D": [
+                        "355,116",
+                        "448,238"
+                    ]
+                },
+                {
+                    "classification_label": "car",
+                    "point_2D": [
+                        "505,136",
+                        "580,243"
+                    ]
+                }
+            ]
+        }
+    }
+}
